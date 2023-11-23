@@ -1,6 +1,6 @@
 # Absenteeism
-<h2>CSE445 Regression  Project</h2>
-<h1> Predicting Absentteism of Employee(in hours)</h1>
+<h2>Regression  Project</h2>
+<h1> Predicting Absenteeism time of Employee(in hours)</h1>
 <h3>Contributor : </h3>
 <ul>
  <li>Imran </li>
